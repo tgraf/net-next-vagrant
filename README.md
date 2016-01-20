@@ -1,4 +1,4 @@
-# Installlation
+# Vagrant Box: net-next + iproute2 + clang/llvm + golang
 
 These are packer scripts to generate a libvirt and vmware vagrant box
 with the following properties:

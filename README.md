@@ -1,0 +1,5 @@
+== Installlation
+
+```
+# vagrant up
+```
